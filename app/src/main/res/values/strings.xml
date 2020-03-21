@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="number1">Number 1</string>
+    <string name="number2">Number 2</string>
+    <string name="ok_button">OK</string>
+    <string name="add">+</string>
+    <string name="substract">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+    <string name="msg">Android Programming</string>
+    <string name="decs">This is a Custome toast</string>
+</resources>
